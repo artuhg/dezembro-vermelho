@@ -1,0 +1,23 @@
+h1{
+	color: red;
+    text-align: center;
+    font-family: italic;
+}
+
+h2{
+	color: white;
+	text-align: center;
+    font-family: italic;
+}
+
+nav{
+	text-align: initial;
+}
+
+p{
+	color: white;
+}
+
+ol{
+	color: white;
+}
